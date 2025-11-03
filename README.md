@@ -1,5 +1,38 @@
-# revolut-ready-portfolio
-Data-driven Strategy &amp; Operations portfolio inspired by real-world fintech problems (SQL, Python, Analytics).
-## 📂 Projects
-1️⃣ [Support Operations Simulator](https://github.com/Anuoluwapooke/revolut-ready-portfolio/tree/main/01-support-ops-simulator)  
-Analyse customer support performance and reduce SLA breaches using Python and data analytics.
+# 🧠 Support Operations Simulator
+
+**Goal:** Analyse customer support efficiency and identify factors causing SLA breaches using Python and data analytics.  
+
+---
+
+## 📊 Overview
+
+This project simulates a customer support environment where each ticket has:
+- Priority level (High / Medium / Low)
+- Channel (Chat, Email, Phone)
+- SLA target (hours)
+- Response and resolution times
+
+The objective is to find **which regions and priorities breach SLAs most** and propose data-driven improvements.
+
+---
+
+## 🧮 Tools & Skills
+- Python (pandas, matplotlib)
+- Google Colab
+- Data cleaning & time-based calculations
+- Exploratory Data Analysis (EDA)
+- Data visualisation & KPI analysis
+
+---
+
+## 📈 Key Insights
+| Metric | Finding |
+|---------|----------|
+| Overall SLA Breach Rate | ~30% |
+| Highest Breach Region | EU |
+| Highest Breach Priority | High |
+| Recommendation | Add one EU support shift & streamline high-priority workflows |
+
+---
+
+## 📂 Project Structure

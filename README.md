@@ -36,3 +36,30 @@ The objective is to find **which regions and priorities breach SLAs most** and p
 ---
 
 ## 📂 Project Structure
+01-support-ops-simulator/
+├─ data/
+│ └─ tickets.csv
+├─ charts/
+│ ├─ sla_breach_by_region.png
+│ └─ sla_breach_by_priority.png
+├─ support_ops_simulator.ipynb
+└─ README.md
+
+---
+
+## 🖼️ Visualisations
+**SLA Breach by Region**
+![Region Breach](charts/sla_breach_by_region.png)
+
+**SLA Breach by Priority**
+![Priority Breach](charts/sla_breach_by_priority.png)
+
+---
+
+## 🧠 Reflection
+This project demonstrates my ability to use **data to solve operational problems**, automate metrics tracking, and communicate insights visually — key skills for Strategy & Operations roles at fintech firms like **Revolut**.
+
+---
+
+📍 *Author: [Anuoluwapo Oke](https://github.com/Anuoluwapooke)*  
+📅 *Created: November 2025*
